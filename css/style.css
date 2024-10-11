@@ -1,0 +1,218 @@
+header {
+width: 1500px;
+height: 600px;
+text-align: center;
+background-color: black;
+color: white;
+}
+.header{
+    background-image:url(../img/image.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    margin: 0 auto;
+    width: 1200px;
+    height: 580px;
+    
+}
+.name{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 200px;
+    
+}
+
+.inf {
+    display: flex;
+    width: 955px;
+    height: 132;
+    margin-left: 200px;
+    justify-content: space-around;
+}
+.inf p {
+    width: 50%;
+    padding: 0;
+    margin: 0;
+}
+.view {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    position: relative;
+    left: 1000px;
+    bottom: 100px;
+}
+.arrow {
+    display: inline-block;
+    margin-right: 1350px;
+    position: relative;
+    top: 250px;
+}
+.arrow2 {
+    display: inline-block;
+    margin-left: 135px;
+    position: relative;
+    top: 250px;
+    width: 100px;
+}
+
+.view p {
+padding-top: 38px;
+
+}
+.header h1 {
+    padding-right: 750px;
+    padding-top: 300px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    margin: 0 10px;
+}
+.menu a {
+text-decoration: none;
+color:white;
+}
+li {
+    display: inline-block;
+    margin-left: 40px;
+
+
+}
+button {
+    background-color: black;
+}
+button h2{
+    color: white;
+}
+
+.item2 {
+    display: inline-block;
+    margin: 20px;
+}
+button{
+    background-color: black;
+    width: 150px;
+    height: 54px;
+    color:white;
+    display: block;
+}
+.item {
+    width: 304px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    text-align: start;
+}
+.itemone{
+    background-image: url(../img/anime.jpg);
+    width: 304px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    text-align: start;
+    margin: 0 10px;
+    color: white;
+    font-size: 24px;
+}
+.itemtwo{
+    background-image: url(../img/anime2.jpg);
+    width: 304px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    text-align: start;
+    margin: 0 10px;
+    color: white;
+    font-size: 24px;
+}
+.itemthree{
+    background-image: url(../img/anime3.jpg);
+    width: 304px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    text-align: start;
+    margin: 0 10px;
+    color: white;
+    font-size: 24px;
+} 
+.itemfour{
+    background-image: url(../img/anime4.jpg);
+    width: 304px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    text-align: start;
+    margin: 0 10px;
+    text-align: ;
+    color: white;
+    font-size: 24px;
+}
+.itemu {
+    display: flex;
+    margin: 150px 0px;
+}
+.itemu p{
+    
+}
+.Values {
+    display: flex;
+    height: 300px;
+    margin-left: 100px;
+    justify-content: space-around;
+}
+.item1 {
+    width: 400px;
+    margin-top: 75px;
+}
+.aboba {
+    text-align: center;
+    font-size: 75px;
+}
+body{
+    width: 1440px;
+    margin: 0 auto;
+}
+.item22 {
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    
+}
+
+.item22 img{
+    width: 100%;
+    height: auto;
+    margin-top: 150px;
+}
+.Button1{
+    
+}
+.blackend{
+    background-color: black;
+    margin-top: 200px;
+    position: relative;
+    color: white;
+    top: 200px;
+    width: 1366px;
+    height: 400px;
+    text-align: start;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.blackend p{
+    padding-top: 100px;
+    
+}
